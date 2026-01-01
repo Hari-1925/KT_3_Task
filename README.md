@@ -35,26 +35,6 @@ Features
 - Dark-themed, modern React dashboard
 - UI clearly labels HTTP methods for each action
 
-
-Project Structure
------------------
-KT_3_task/
-
-backend/
-  data/
-    people.json
-  server.js
-  package.json
-
-frontend/
-  src/
-    App.jsx
-  index.html
-  package.json
-
-README.txt
-
-
 Backend API Endpoints
 ---------------------
 POST    /api/people        - Create a new person
@@ -70,7 +50,7 @@ How to Run the Project
 1. Clone the repository
 
 git clone https://github.com/Hari-1925/KT_3_Task.git
-cd <repo-name>
+cd <KT_3_Task>
 
 
 2. Run the backend
